@@ -36,7 +36,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-I learned custom styling of the numbers in ordered list
+I learned custom styling of the numbers in ordered list.
 
 Here's a snippet:
 
