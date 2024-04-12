@@ -11,12 +11,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [my solution](https://www.frontendmentor.io/solutions/recipe-page-6H1NS0HqnW)
+- Live Site URL: [Recipe Page](https://recipe-page5.netlify.app/)
 
 ## My process
 
